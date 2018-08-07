@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asd
 asd
+=======
+this is a  test
+>>>>>>> 014e95270538eeb7337ce6b026b756c738accc72
