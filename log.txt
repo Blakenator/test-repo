@@ -1,3 +1,45 @@
+||||afa8245927d98cf8dfaac11a3eacc761229d1bcc|Blake Stacks|blake@blakestacks.com|Tue Aug 7 00:21:46 2018 -0700|This is a very long message. It contains a full commit history log for this branch. This is a very long message. It contains a full commit history log for this branch. This is a very long message. It contains a full commit history log for this branch.
+
+||||ccaa1b93431cdb1f39d83950103604c29ab5d45e|Blake Stacks|blake@blakestacks.com|Tue Aug 7 00:00:26 2018 -0700|c
+
+a
+
+p
+
+||||b0e9b40b78dadc6d348750d22104b3216e3bf246|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:47:06 2018 -0700|Multiline4
+Commit
+
+||||3ddb60a67b93a43e864824b13d635e3391b568f4|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:40:12 2018 -0700|Multiline3
+
+Commit
+
+||||39cc8df4883b4a0408fe220c6268ad0dc3a4a077|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:38:40 2018 -0700|Multiline3
+
+Commit
+
+||||30e5560f354e04ba71b2e95e3fabd6f5f650cd68|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:37:01 2018 -0700|Multiline2
+
+Commit
+
+||||df6cb8d403b14baf49645f5bc9cfd6cb31e9460f|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:36:09 2018 -0700|Multiline
+
+Commit
+
+||||3b9267f70bbd6d9bcf310778c50d75e141f15748|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:32:31 2018 -0700|'Multilie
+
+||||b9bd49053d76278fe1b878a040b08f84d3ab0f96|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:28:18 2018 -0700|Testing
+
+||||a6e824f612c2c582bf3d2bed0cf3c13e7ce4588b|Blake Stacks|blake@blakestacks.com|Sat Jul 21 19:30:37 2018 -0700|$This is a test #3\nHello world
+
+||||352d349043e0947bfe35d6f8632f5aeeb0ece9a4|Blake Stacks|blake@blakestacks.com|Sat Jul 21 16:35:54 2018 -0700|testing 4
+
+||||077940cd566b7b967c2eed48c438b607d18322cb|Blake Stacks|blake@blakestacks.com|Sat Jul 21 11:06:29 2018 -0700|test change 2
+
+||||014e95270538eeb7337ce6b026b756c738accc72|Blake Stacks|blake@blakestacks.com|Sat Jul 21 11:04:44 2018 -0700|test change 3
+
+||||4c64ca55753eaa35336feb4a8a69e1374fb90ed9|Blake Stacks|blake@blakestacks.com|Sat Jul 21 11:03:24 2018 -0700|test commit 1
+||||afa8245927d98cf8dfaac11a3eacc761229d1bcc|Blake Stacks|blake@blakestacks.com|Tue Aug 7 00:21:46 2018 -0700|This is a very long message. It contains a full commit history log for this branch. This is a very long message. It contains a full commit history log for this branch. This is a very long message. It contains a full commit history log for this branch.
+
 ||||ccaa1b93431cdb1f39d83950103604c29ab5d45e|Blake Stacks|blake@blakestacks.com|Tue Aug 7 00:00:26 2018 -0700|c
 
 a
