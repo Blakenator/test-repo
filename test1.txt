@@ -35,17 +35,6 @@ asd
 asd
 asd
 asd
-asd123
-asd123
-console.log
-asd123
-asd
-asd
-asd
-asd
-asd
-asd
-asd
 asd
 asd
 asd
