@@ -1,0 +1,3 @@
+[submodule "recur"]
+	path = recur
+	url = https://github.com/Blakenator/test-repo-submodule-recur.git
