@@ -4,8 +4,6 @@
 
 a
 
-p
-
 ||||b0e9b40b78dadc6d348750d22104b3216e3bf246|Blake Stacks|blake@blakestacks.com|Sat Jul 21 20:47:06 2018 -0700|Multiline4
 Commit
 
